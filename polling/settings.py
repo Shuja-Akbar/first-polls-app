@@ -28,7 +28,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['first-polls-app.herokuapp.com']
 
-
 # Application definition
 
 INSTALLED_APPS = [
